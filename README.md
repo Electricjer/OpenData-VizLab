@@ -32,7 +32,7 @@ After review, your work will become part of the open collection of examples for 
 
 ## 💡 Not sure where to start?
 
-We have prepared several demo examples and [short guides](https://github.com/Berdyansk-State-Pedagogical-University/OpenData-VizLab/blob/main/CONTRIBUTING.md).  
+We have prepared several [demo examples](https://github.com/Berdyansk-State-Pedagogical-University/OpenData-VizLab/tree/main/examples) and [short guides](https://github.com/Berdyansk-State-Pedagogical-University/OpenData-VizLab/blob/main/CONTRIBUTING.md).  
 
 Got questions or unsure how to begin? – Write to us and we’ll help!  
 📧 naukabdpu@gmail.com  
