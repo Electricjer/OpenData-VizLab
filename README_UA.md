@@ -32,7 +32,7 @@
 
 ## 💡 Не знаєте, з чого почати?
 
-Ми підготували кілька демонстраційних прикладів та [короткі інструкції](https://github.com/Berdyansk-State-Pedagogical-University/OpenData-VizLab/blob/main/CONTRIBUTING_UA.md).  
+Ми підготували кілька [демонстраційних прикладів](https://github.com/Berdyansk-State-Pedagogical-University/OpenData-VizLab/tree/main/examples) та [короткі інструкції](https://github.com/Berdyansk-State-Pedagogical-University/OpenData-VizLab/blob/main/CONTRIBUTING_UA.md).  
 
 Є питання або не знаєте, з чого почати? – Напишіть нам, і ми допоможемо!  
 📧 naukabdpu@gmail.com  
