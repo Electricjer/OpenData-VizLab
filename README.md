@@ -2,7 +2,7 @@
 
 *Open Data Visualization Lab for Education and Communities*
 
-Berdiansk State Pedagogical University invites you to join the citizen science initiative **OpenData VizLab** to co-create a library of open data visualization examples for education, civic engagement, social projects, and community development.
+Berdyansk State Pedagogical University invites you to join the citizen science initiative **OpenData VizLab** to co-create a library of open data visualization examples for education, civic engagement, social projects, and community development.
 
 ## 🎯 Project Goal
 
