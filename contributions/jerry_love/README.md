@@ -1,7 +1,7 @@
 # Visualization:- National Waste List of Ukraine
 
 Author: Jerry Love  
-Dataset: https://data.gov.ua/dataset/natsionalnii-perelik-vidkhodiv
+Dataset: [https://data.gov.ua/dataset/natsionalnii-perelik-vidkhodiv](https://data.gov.ua/en/dataset/2169b5a5-7255-4631-89c0-7bfc859e283b/resource/26735f3e-02c8-48ba-932d-e4e8962dae63)
 
 ## Description
 This visualization presents the distribution of waste across different chapters and subchapters in the Ukrainian National Waste List (natsionalnii-perelik-vidkhodiv). It highlights which waste categories have the most subcategories, providing an overview of the complexity of waste classification.  
