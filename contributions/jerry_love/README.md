@@ -1,4 +1,4 @@
-# Visualization: National Waste List (natsionalnii-perelik-vidkhodiv) Waste Distribution
+# Visualization:- National Waste List of Ukraine
 
 Author: Jerry Love  
 Dataset: https://data.gov.ua/dataset/natsionalnii-perelik-vidkhodiv
