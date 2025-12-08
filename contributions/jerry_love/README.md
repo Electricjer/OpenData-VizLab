@@ -11,10 +11,11 @@ Two visualizations were created:
 - Horizontal bar graph: showing the number of subchapters per chapter.  
 
 ## Methods
-1. Translation: The original dataset was translated from Ukrainian to English using Grok.  
-2. Data Analysis: The dataset was cleaned, sorted, and categorized in Excel.  
-3. Categorization: General categories were created for each waste type to simplify visualization and highlight trends.  
-4. Visualization: Charts were generated to show hierarchical relationships and subchapter distributions clearly.
+1. Dataset Selection: The dataset was chosen at random from the Open Data Portal of Ukraine.
+2. Translation: The original dataset was translated from Ukrainian to English using Grok.  
+3. Data Analysis: The dataset was cleaned, sorted, and categorized in Excel.  
+4. Categorization: General categories were created for each waste type to simplify visualization and highlight trends.  
+5. Visualization: Charts were generated to show hierarchical relationships and subchapter distributions clearly.
 
 ## Tools used
 - Excel (data cleaning, sorting, and categorization)  
